@@ -4,14 +4,14 @@
         This guide will walk you through the installation process for the Wanderlust web project. 
         Follow the steps below to set up the project locally on your machine.
 
-__Prerequisites__
+#Prerequisites
 
          Before you begin, make sure you have the following installed on your system:
     
             Node.js (version v22.11.0 recommended)
             MongoDB
             Nodemon (installed globally)
-__Installation Steps__
+#Installation Steps
 
         1. Clone the Wanderlust repository from GitHub:
       
@@ -63,4 +63,5 @@ __Installation Steps__
     
     
     
+
 
