@@ -62,8 +62,9 @@ Before you begin, make sure you have the following installed on your system:
 
 8. Live demo of the project:
    ```
-   https://wanderlust-9c1v.onrender.com/
+   https://wanderlust-9c1v.onrender.com/listings?
    ```
    
 That's it! You have successfully installed and set up the Wanderlust web project on your local machine. If you encounter any issues during the installation process, feel free to reach out for assistance. Happy traveling! 🌍✈️
+
 
